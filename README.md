@@ -1,4 +1,4 @@
-<div align="center"><strong>OB1 WAN KENOBI</strong></div>
+<div align="center"> <h1> <strong>OB1 WAN KENOBI</strong> </h1> </div>
 
   <a href="https://github.com/imhungry99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imhungry99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
